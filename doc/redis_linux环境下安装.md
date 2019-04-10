@@ -20,6 +20,7 @@
 ### 安装成功页面
 切换到`cs /usr/local/bin`目录下，执行`./redis-server`启动,启动成功后如下图
 
+![redis启动成功](https://raw.githubusercontent.com/zengzhiwei12138/software_install/master/image/redis启动成功.png "redis启动成功")
 
 ### 常见问题
 - 若出现如下提示，则说明未安装gcc，使用命令安装gcc：yum install gcc
